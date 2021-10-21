@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "newKey": "new value",
+      "id": 1
+    },
+    {
+      "title": "New Title",
+      "author": "Bob",
+      "id": 2,
+      "newKey": "new value"
+    },
+    {
+      "title": "HTML",
+      "author": "Bob",
+      "id": 14
+    },
+    {
+      "title": "JS",
+      "author": "Billy",
+      "id": 16
+    },
+    {
+      "title": "React",
+      "author": "Vanessa",
+      "id": 17
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
